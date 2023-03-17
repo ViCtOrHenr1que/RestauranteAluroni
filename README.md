@@ -2,6 +2,9 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN)
 
+## Link do protótipo do projeto
+https://restaurante-aluroni-rho.vercel.app/
+
 ## Resumo do projeto
 
 Projeto de um Restaurante para prática de ReactJS, e TypeScript.
